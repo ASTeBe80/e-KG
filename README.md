@@ -33,6 +33,9 @@ Unfortunately, the initial version of the **e-KG** project was lost due to a ran
    - Click the green flag icon to start the animation.
    - Watch as the characters are animated on the screen.
 
+3. **Easy step** :
+   - Just go to https://astebe80.github.io/e-KG/, and you can run the program online.
+
 ## Documentation
 For a detailed explanation of the design and functionality of the project, refer to the included documentation file named "Readme_e-KG_v.2.0.pdf". The documentation covers the following sections:
 
