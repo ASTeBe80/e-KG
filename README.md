@@ -34,7 +34,7 @@ e-KG is a Scratch project designed to animate characters, including alphabets an
    - Watch as the characters are animated on the screen.
 
 ## Documentation
-For a detailed explanation of the design and functionality of the project, refer to the included documentation file. The documentation covers the following sections:
+For a detailed explanation of the design and functionality of the project, refer to the included documentation file named "Readme_e-KG_v.2.0.pdf". The documentation covers the following sections:
 
 - Introduction: Overview of the e-KG project.
 - Design: Explanation of the design choices and structure of the project.
