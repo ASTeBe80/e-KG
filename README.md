@@ -2,7 +2,7 @@
 # e-KG v.2.0
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+**This project is licensed under the MIT License. See the LICENSE file for more details.**
 
 ## Credits
 Developed by Ashutosh Singh under the guidance of Mr. Maheshwar Dev.  
