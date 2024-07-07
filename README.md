@@ -6,7 +6,7 @@
 
 ## Credits
 Developed by Ashutosh Singh under the guidance of Mr. Maheshwar Dev.  
-The first version was developed in collaboration with my classmates when I was in 8th grade. Special mentions: Divij Gupta, Aditya Dabgotra, Nitish Saini, and Himanshu S. Jha.
+The first version was developed in collaboration with my classmates when we were in 8th grade. Special mentions: Divij Gupta, Aditya Dabgotra, Nitish Saini, and Himanshu S. Jha.
 
 ## Disclaimer
 The developer takes no responsibility for any damage or issues that may arise from the use of this project. Use it at your own risk.
