@@ -50,5 +50,5 @@ Contributions to the e-KG project are welcome. Feel free to fork the repository 
 ## Contact
 For any questions or feedback, please contact me at astebe80@gmail.com.
 
-##Walkthrough
+## Walkthrough
 Refer to this video for a simple walkthrough https://youtu.be/PWVMJ1sPBWU
