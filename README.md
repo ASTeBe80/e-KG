@@ -1,5 +1,5 @@
 
-# e-KG v.2.0
+# e-KG v2.0
 
 ## License
 **This project is licensed under the MIT License. See the LICENSE file for more details.**
@@ -37,7 +37,7 @@ Unfortunately, the initial version of the **e-KG** project was lost due to a ran
    - Just go to https://astebe80.github.io/e-KG/, and you can run the program online.
 
 ## Documentation
-For a detailed explanation of the design and functionality of the project, refer to the included documentation file named "Readme_e-KG_v.2.0.pdf". The documentation covers the following sections:
+For a detailed explanation of the design and functionality of the project, refer to the included documentation file named "Readme_e-KG_v2.0.pdf". The documentation covers the following sections:
 
 - Introduction: Overview of the e-KG project.
 - Design: Explanation of the design choices and structure of the project.
@@ -46,6 +46,7 @@ For a detailed explanation of the design and functionality of the project, refer
 
 ## Contributing
 Contributions to the e-KG project are welcome. Feel free to fork the repository and submit a pull request if you have any ideas for improvements or new features. Make sure to follow the contributing guidelines.
+Also, make sure to add comments, so that it's easier to detect changes made.
 
 ## Contact
 For any questions or feedback, please contact me at astebe80@gmail.com.
